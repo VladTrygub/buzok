@@ -1,0 +1,96 @@
+.container {
+    color: #555; }
+.container a {
+    color: #555; }
+.container a:hover {
+    color: #87DBF9;
+    text-decoration: none; }
+
+.block-news {
+    background-color: #fff;
+    border-radius: 4px;
+    border: 1px solid #E3E4E8;
+    min-height: 500px;
+    padding: 10px; }
+
+.block-new {
+    background-color: #fff;
+    border-radius: 4px;
+    border: 1px solid #E3E4E8;
+    min-height: 230px;
+    padding: 10px; }
+.block-new ul {
+    display: block;
+    list-style: none;
+    padding-left: 0; }
+.block-new li {
+    display: inline-block; }
+
+.block-books {
+    background-color: #fff;
+    border-radius: 4px;
+    border: 1px solid #E3E4E8;
+    min-height: 230px;
+    margin-top: 40px;
+    padding: 10px; }
+
+.thumbnail {
+    border: 0px; }
+.thumbnail a img {
+    width: 155px;
+    height: 160px; }
+
+.stock {
+    width: 100%;
+    height: 200px; }
+.stock img {
+    width: 100%;
+    height: 100%; }
+
+.thumbnails {
+    padding-left: 0px;
+    margin-right: -15px; }
+
+.span3 {
+    width: 24%;
+    display: inline-block; }
+
+.caption {
+    text-align: center; }
+
+.block-title {
+    margin-top: -4px; }
+
+.book-name {
+    margin-top: -15px; }
+
+.control-box {
+    text-align: center;
+    margin-top: -20px; }
+
+.my-control {
+    padding: 0 10px;
+    font-size: 30px; }
+
+.clip {
+    max-width: 100%;
+    margin: 0 2px 15px 2px;
+    text-align: justify; }
+
+.news img {
+    width: 100%; }
+
+.news h4 {
+    margin: 2px 2px 0 2px;
+    font-size: 20px; }
+.news h4 a {
+    color: #000; }
+
+.tags {
+    margin: 0 2px -2px 2px;
+    color: #868686; }
+.tags a {
+    color: #a2a2a2; }
+
+.item {
+    margin-left: -2px; }
